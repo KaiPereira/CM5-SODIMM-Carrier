@@ -2,7 +2,7 @@
 
 <img width="2484" height="1403" alt="image" src="https://github.com/user-attachments/assets/d6ab62ae-5995-465b-bf52-cf7a8c9ec353" />
 
-This SO-DIMM card essentially let's you turn a CM5 into a NVIDIA Jetson card, turing RK1, and other compatible SO-DIMM standards! It's going to be used for my future server clutser motherboard!
+This SO-DIMM card essentially let's you turn a CM5 into a NVIDIA Jetson card, turing RK1, and other compatible SO-DIMM standards! It's going to be used for my future server cluster motherboard!
 ## Custom Features!
 - Jetson/Turing RK1/Radxa/etc compatible SO-DIMM connector
 - Support for SD Card mounting
