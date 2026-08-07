@@ -24,3 +24,6 @@ fp-info-cache
 
 # Backup directories
 *-backups/
+
+# Obsidian folder
+/.obsidian/
